@@ -1,0 +1,12 @@
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\bin\Debug\net5.0\BookStoreModels.deps.json
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\bin\Debug\net5.0\BookStoreModels.dll
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\bin\Debug\net5.0\BookStoreModels.pdb
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\BookStoreModels.csproj.AssemblyReference.cache
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\BookStoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\BookStoreModels.AssemblyInfoInputs.cache
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\BookStoreModels.AssemblyInfo.cs
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\BookStoreModels.csproj.CoreCompileInputs.cache
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\BookStoreModels.dll
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\refint\BookStoreModels.dll
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\BookStoreModels.pdb
+C:\Users\andrii.shchepaniak\Desktop\TestProjects\SeleniumTest\BookStoreModels\obj\Debug\net5.0\ref\BookStoreModels.dll
